@@ -7,3 +7,5 @@
 Задача: Показываем игроку ряд чисел, образующий
 геометрическую прогрессию, заменив любое из чисел двумя точками. Игрок
 должен определить это число.
+
+<a href="https://codeclimate.com/github/Blin4yk/Methodology/maintainability"><img src="https://api.codeclimate.com/v1/badges/033fcca12e3391a24b19/maintainability" /></a>
